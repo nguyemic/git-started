@@ -5,4 +5,4 @@ I am very excited about this class and look forward to working and learning from
 
 Thank you.
 
-http://students.washington.edu/nguyemic/info343/git-started
+http://students.washington.edu/nguyemic/info343/git-started/git-started
